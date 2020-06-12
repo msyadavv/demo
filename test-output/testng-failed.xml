@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="chrome(failed)">
+    <classes>
+      <class name="com.jenkin.JenkinBasics.NewTest">
+        <methods>
+          <include name="TestJenkin"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.jenkin.JenkinBasics.NewTest -->
+    </classes>
+  </test> <!-- chrome(failed) -->
+</suite> <!-- Failed suite [Suite] -->

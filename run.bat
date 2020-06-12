@@ -1,0 +1,1 @@
+java -cp D:\study\wrkspaceMain\JenTestNG\lib\*;D:\study\wrkspaceMain\JenTestNG\bin org.testng.TestNG testng.xml

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26" started-at="2020-06-12T06:59:58Z" finished-at="2020-06-12T06:59:58Z">
+    <groups>
+    </groups>
+    <test name="chrome" duration-ms="26" started-at="2020-06-12T06:59:58Z" finished-at="2020-06-12T06:59:58Z">
+      <class name="com.jenkin.JenkinBasics.NewTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.jenkin.JenkinBasics.NewTest@1134affc]" name="beforeMethod" is-config="true" duration-ms="9" started-at="2020-06-12T12:29:58Z" finished-at="2020-06-12T12:29:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TestJenkin()[pri:0, instance:com.jenkin.JenkinBasics.NewTest@1134affc]" name="TestJenkin" duration-ms="1" started-at="2020-06-12T12:29:58Z" finished-at="2020-06-12T12:29:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestJenkin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.jenkin.JenkinBasics.NewTest@1134affc]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-06-12T12:29:58Z" finished-at="2020-06-12T12:29:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.jenkin.JenkinBasics.NewTest -->
+    </test> <!-- chrome -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,1 @@
+java -jar D:\study\wrkspaceMain\JenTestNG\jenkins.war
